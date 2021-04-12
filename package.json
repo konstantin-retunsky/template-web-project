@@ -1,0 +1,20 @@
+{
+  "name": "template-web-project",
+  "version": "1.0.0",
+  "description": "template web-project",
+  "scripts": {
+    "dev": "gulp dev",
+    "build:dev": "gulp build",
+    "build:prod": "gulp build --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantin-retunsky/template-web-project.git"
+  },
+  "author": "konstantin.retunsky@gmail.com",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/konstantin-retunsky/template-web-project/issues"
+  },
+  "homepage": "https://github.com/konstantin-retunsky/template-web-project#readme"
+}
